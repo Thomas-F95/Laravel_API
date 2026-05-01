@@ -34,7 +34,7 @@ Punti chiave del progetto:
 - Sicurezza: Gestione delle rotte e validazione dei dati per garantire API affidabili.
 
 È una risorsa preziosa per chiunque voglia approfondire lo sviluppo di servizi web scalabili con PHP.
-
+##
 
 
 ## Exploring API Development with Laravel 🚀
